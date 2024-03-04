@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Raphaël Denni, a french IT student. I will update this page to complete my profile very soon. 
+
+Currently, I have a TODO list to rewrite and update some of my repos :
+
+- [ ] Complete my profile ([See here](https://github.com/raphaeldenni/raphaeldenni))
+- [ ] Create a real portfolio website ([See here](https://github.com/raphaeldenni/raphaeldenni.github.io))
+- [ ] Rewrite my two fun Python repos ([See here](https://github.com/raphaeldenni/zorglangue-traductor) and [here](https://github.com/raphaeldenni/dvd-player-sleep))
+
 <!--
 **raphaeldenni/raphaeldenni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
