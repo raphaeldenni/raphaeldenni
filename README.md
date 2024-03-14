@@ -6,7 +6,8 @@ Currently, I have a TODO list to rewrite and update some of my repos :
 
 - [ ] Complete my profile ([See here](https://github.com/raphaeldenni/raphaeldenni))
 - [ ] Create a real portfolio website ([See here](https://github.com/raphaeldenni/raphaeldenni.github.io))
-- [ ] Rewrite my two fun Python repos ([See here](https://github.com/raphaeldenni/zorglangue-traductor) and [here](https://github.com/raphaeldenni/dvd-player-sleep))
+- [x] Rewrite my two fun Python repos ([See here](https://github.com/raphaeldenni/zorglangue-traductor) and [here](https://github.com/raphaeldenni/dvd-player-sleep))
+- [ ] Finish my Discord bots ([See here](https://github.com/raphaeldenni/NewsBot) and [here](https://github.com/raphaeldenni/CleanBot))
 
 <!--
 **raphaeldenni/raphaeldenni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
