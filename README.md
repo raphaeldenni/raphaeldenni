@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaeldenni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaeldenni&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=raphaeldenni&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
@@ -59,7 +59,6 @@
 
 - [x] Complete my profile ([See here](https://github.com/raphaeldenni/raphaeldenni))
 - [ ] Create a real portfolio website ([See here](https://github.com/raphaeldenni/raphaeldenni.github.io))
-- [x] Rewrite my two fun Python repos ([See here](https://github.com/raphaeldenni/zorglangue-traductor) and [here](https://github.com/raphaeldenni/dvd-player-sleep))
 - [ ] Finish my news bot ([See here](https://github.com/raphaeldenni/NewsBot))
 
 ###
