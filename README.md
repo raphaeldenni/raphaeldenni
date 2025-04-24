@@ -52,13 +52,3 @@
 </div>
 
 ###
-
-<h2 align="left">TODOs :</h2>
-
-###
-
-- [x] Complete my profile ([See here](https://github.com/raphaeldenni/raphaeldenni))
-- [ ] Create a real portfolio website ([See here](https://github.com/raphaeldenni/raphaeldenni.github.io))
-- [ ] Finish my news bot ([See here](https://github.com/raphaeldenni/NewsBot))
-
-###
